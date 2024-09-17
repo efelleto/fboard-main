@@ -1,3 +1,4 @@
 name: fBoard
 version: '${project.version}'
 main: dev.felleto.fboardmain.Fboard_main
+author: Eduardo Felleto
